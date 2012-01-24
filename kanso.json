@@ -1,0 +1,17 @@
+{
+    "name": "es5shim",
+    "version": "0.0.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Pete Bacon Darwin",
+            "url": "https://github.com/petebacondarwin/kanso-es5shim"
+        }
+    ],
+    "url": "https://github.com/kriskowal/es5-shim",
+    "modules": "es5-shim.js",
+    "dependencies": {
+        "modules": ">=0.0.8"
+    },
+    "description": "Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5."
+}
